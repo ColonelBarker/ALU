@@ -1,6 +1,6 @@
 #  python  C:\example.py
 
-#Funtions
+#Funtions bollock
 # OP    No CARRY    CARRY           FUNCTION
 # 1     A          A + 1            Transfer    / Increment 
 # 2     A + B      (A + B) + 1      Add         / Add with carry 
